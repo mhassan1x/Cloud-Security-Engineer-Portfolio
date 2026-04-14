@@ -1,4 +1,4 @@
-# Day 2 – Linux Permissions & IAM (RBAC vs ABAC)
+# Day 2 – Linux Permissions & IAM (RBAC vs ABAC).
 
 ## Linux Permissions Learned
 - `chmod 600` – private file (owner read/write)
