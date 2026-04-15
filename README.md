@@ -6,3 +6,4 @@ Each day includes hands-on labs, Linux practice, and security configurations on 
 ## Completed Days
 - [Day 1](day1.md) – Cloud Foundations, AWS Account Setup, MFA, IAM Admin, Linux CloudShell, GitHub portfolio.
 - [Day 2](day2.md) – Linux permissions (chmod, chown, umask) and IAM deep dive (RBAC vs ABAC).
+- [Day 3](day3.md) – Cloud Networking, VPC, EC2, SSH.
