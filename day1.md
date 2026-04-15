@@ -3,7 +3,7 @@
 ## Accomplishments
 - Created AWS account with $200 credits (6 months)
 - Enabled MFA on root account
-- Created IAM admin user `cloudsec-admin` and assigned MFA
+- Created IAM admin user `cloudsec-admin-hassan` and assigned MFA
 - Accessed AWS CloudShell and ran basic Linux commands (`ls`, `pwd`, `cat`, `echo`)
 - Set up Git and connected to GitHub using personal access token
 - Created this portfolio repository and pushed first commit
