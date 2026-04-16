@@ -1,6 +1,6 @@
 # Day 3 – Cloud Networking (VPC, Subnets, Security Groups, NACLs, EC2)
 
-## Concepts Learned
+## Concepts Learned.
 - VPC with CIDR `10.0.0.0/16`
 - Public subnet `10.0.1.0/24` with Internet Gateway and route table
 - Security Group (stateful) allowed SSH and HTTP
