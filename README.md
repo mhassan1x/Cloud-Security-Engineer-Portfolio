@@ -7,4 +7,5 @@ Each day includes hands-on labs, Linux practice, and security configurations on 
 - [Day 1](day1.md) – Cloud Foundations, AWS Account Setup, MFA, IAM Admin, Linux CloudShell.
 - [Day 2](day2.md) – Linux permissions (chmod, chown, umask) and IAM deep dive (RBAC vs ABAC).
 - [Day 3](day3.md) – Cloud Networking (VPC, Subnets, Security Groups, NACLs, EC2).
-- [Day 4](day4.md) –  DDoS Protection, AWS WAF, and Cloud Security Standards.
+- [Day 4](day4.md) – DDoS Protection, AWS WAF, and Cloud Security Standards.
+- [Day 5](day5.md) – Data lifecycle, Encryption, KMS lab.
