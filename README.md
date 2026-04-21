@@ -10,3 +10,4 @@ Each day includes hands-on labs, Linux practice, and security configurations on 
 - [Day 4](day4.md) – DDoS Protection, AWS WAF, and Cloud Security Standards.
 - [Day 5](day5.md) – Data Lifecycle, Encryption (at rest/in transit/in use), AWS KMS (encrypt/decrypt file).
 - [Day 6](day6.md) – Container Security (Docker: non‑root, read‑only FS, capability dropping, Trivy scan; Kubernetes: PSS, Network Policies, RBAC, Secrets).
+- [Day 7](day7.md) – SecDevOps, CI/CD security, secrets management.
