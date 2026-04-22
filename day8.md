@@ -18,6 +18,15 @@ Designed a DR plan for a web app (S3, EC2, RDS) with RTO=2h, RPO=30min:
 - S3 cross‑region replication.
 - Route 53 failover with health checks.
 
+## My Understanding of the DR Plan
+
+I designed a DR plan for a web app with RTO=2h and RPO=30min. 
+- If the primary region (us-east-1) fails, Route 53 automatically switches DNS to us-west-2.
+- S3 files are already replicated (CRR), so no data loss.
+- The database is restored from a snapshot copied to us-west-2; this takes about 45 minutes.
+- EC2 servers are launched from a pre-configured template in the DR region.
+- Total recovery time is under 2 hours.
+
 ## Cost Estimation
 Used AWS Pricing Calculator to compare strategies. Backup & Restore is cheapest; Multi‑Site is costliest.
 
