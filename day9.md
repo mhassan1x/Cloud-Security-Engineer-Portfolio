@@ -7,7 +7,7 @@
 ## Hands‑On Lab
 - Installed and ran Prowler in AWS CloudShell.
 - Generated an HTML report with CIS benchmark results.
-- (Optional) Ran ScoutSuite for a second perspective.
+- Ran ScoutSuite for a second perspective.
 - Learned that many best‑practice checks fail in a lab account – that's normal.
 
 ## Incident Response Basics
