@@ -46,6 +46,5 @@ def lambda_handler(event, context):
         'body': f'Fixed buckets: {fixed_buckets}'
     }
 ```
+## Next Steps
 - Day 11: Compliance (GDPR, HIPAA) and Incident Reporting.
-
-- Scheduled 
