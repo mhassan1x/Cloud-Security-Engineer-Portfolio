@@ -13,3 +13,4 @@ Each day includes hands-on labs, Linux practice, and security configurations on 
 - [Day 7](day7.md) – SecDevOps, CI/CD security, secrets management.
 - [Day 8](day8.md) – Disaster Recovery, DR strategies, RTO/RPO.
 - [Day 9](day9.md) – Auditing tools (Prowler , ScoutSuite) , incident response basics.
+- [Day 10](day10.md) – – cloud security automation (Lambda + EventBridge).
